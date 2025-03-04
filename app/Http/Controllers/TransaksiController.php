@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\Transaksi;
-use App\Models\siswa;
+use App\Models\Siswa;
 use App\Models\barang;
 use Illuminate\Http\Request;
 
