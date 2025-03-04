@@ -17,5 +17,4 @@ return Application::configure(basePath: dirname(_DIR_))
     })
     ->withExceptions(function (Exceptions $exceptions) {
         //
-    })
-    ->create();
+    })->create();
