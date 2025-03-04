@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Models\Transaksi;
 use App\Models\Siswa;
-use App\Models\barang;
+use App\Models\Barang;
 use Illuminate\Http\Request;
 
 class TransaksiController extends Controller
